@@ -1,0 +1,2 @@
+Increase tempo 75%
+Decrease pitch 20%
